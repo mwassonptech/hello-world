@@ -1,2 +1,2 @@
 # hello-world
-Excelsior
+Excelsior Academy
